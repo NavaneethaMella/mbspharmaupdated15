@@ -1,0 +1,20 @@
+.no-clients-message {
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .collaboration-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 24px;
+    background-color: #004aad; /* Change to match your branding */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .collaboration-link:hover {
+    background-color: #00307a; /* Darker on hover */
+  }
+  
